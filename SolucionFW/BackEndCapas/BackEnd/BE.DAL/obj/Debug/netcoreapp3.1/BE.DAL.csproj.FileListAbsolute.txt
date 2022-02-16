@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.deps.json
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.dll
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.pdb
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.dll
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.pdb
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.genruntimeconfig.cache
