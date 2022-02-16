@@ -172,3 +172,4 @@ C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\FrontEnd\obj\Debug\
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Views\Universidads\Details.cshtml.g.cs
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Views\Universidads\Edit.cshtml.g.cs
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\FrontEnd\obj\Debug\netcoreapp3.1\Razor\Views\Universidads\Index.cshtml.g.cs
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.csproj.AssemblyReference.cache
