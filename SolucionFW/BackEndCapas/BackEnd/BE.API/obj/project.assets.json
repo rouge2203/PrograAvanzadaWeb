@@ -1592,6 +1592,82 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "BE.BS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BE.DAL": "1.0.0",
+          "BE.DAL.DO": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.20",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.20"
+        },
+        "compile": {
+          "bin/placeholder/BE.BS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BE.BS.dll": {}
+        }
+      },
+      "BE.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BE.DAL.DO": "1.0.0",
+          "BE.DAL.Repository": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.20",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.20"
+        },
+        "compile": {
+          "bin/placeholder/BE.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BE.DAL.dll": {}
+        }
+      },
+      "BE.DAL.DO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.20",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.20"
+        },
+        "compile": {
+          "bin/placeholder/BE.DAL.DO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BE.DAL.DO.dll": {}
+        }
+      },
+      "BE.DAL.EF/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BE.DAL.DO": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.20",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.20"
+        },
+        "compile": {
+          "bin/placeholder/BE.DAL.EF.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BE.DAL.EF.dll": {}
+        }
+      },
+      "BE.DAL.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BE.DAL.EF": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.20",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.20"
+        },
+        "compile": {
+          "bin/placeholder/BE.DAL.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BE.DAL.Repository.dll": {}
+        }
       }
     }
   },
@@ -5964,12 +6040,39 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "BE.BS/1.0.0": {
+      "type": "project",
+      "path": "../BE.BS/BE.BS.csproj",
+      "msbuildProject": "../BE.BS/BE.BS.csproj"
+    },
+    "BE.DAL/1.0.0": {
+      "type": "project",
+      "path": "../BE.DAL/BE.DAL.csproj",
+      "msbuildProject": "../BE.DAL/BE.DAL.csproj"
+    },
+    "BE.DAL.DO/1.0.0": {
+      "type": "project",
+      "path": "../BE.DAL.DO/BE.DAL.DO.csproj",
+      "msbuildProject": "../BE.DAL.DO/BE.DAL.DO.csproj"
+    },
+    "BE.DAL.EF/1.0.0": {
+      "type": "project",
+      "path": "../BE.DAL.EF/BE.DAL.EF.csproj",
+      "msbuildProject": "../BE.DAL.EF/BE.DAL.EF.csproj"
+    },
+    "BE.DAL.Repository/1.0.0": {
+      "type": "project",
+      "path": "../BE.DAL.Repository/BE.DAL.Repository.csproj",
+      "msbuildProject": "../BE.DAL.Repository/BE.DAL.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoMapper >= 8.1.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 6.1.1",
+      "BE.BS >= 1.0.0",
+      "BE.DAL.EF >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 3.1.20",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.20",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.20",
@@ -6008,7 +6111,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\SolucionFW\\BackEndCapas\\BackEnd\\BE.BS\\BE.BS.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\SolucionFW\\BackEndCapas\\BackEnd\\BE.BS\\BE.BS.csproj"
+            },
+            "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\SolucionFW\\BackEndCapas\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\SolucionFW\\BackEndCapas\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
