@@ -34,7 +34,7 @@ namespace BE.DAL
 
         public data.Categories GetOneById(int id)
         {
-            return repo.GetOnebyID(id)
+            return repo.GetOnebyID(id);
         }
 
         public Task<data.Categories> GetOneByIdAsync(int id)
@@ -44,12 +44,14 @@ namespace BE.DAL
 
         public void Insert(data.Categories t)
         {
-            repo.Insert(t)
+            repo.Insert(t);
+            repo.Commit();
         }
 
         public void Update(data.Categories t)
         {
             repo.Update(t);
+            repo.Commit();
         }
     }
 }

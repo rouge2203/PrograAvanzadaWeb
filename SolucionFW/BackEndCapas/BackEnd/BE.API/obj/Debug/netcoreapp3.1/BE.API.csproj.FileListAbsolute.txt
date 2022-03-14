@@ -67,3 +67,13 @@ C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEn
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\obj\Debug\netcoreapp3.1\BE.API.pdb
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\obj\Debug\netcoreapp3.1\BE.API.genruntimeconfig.cache
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\obj\Debug\netcoreapp3.1\BE.API.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.BS.dll
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.dll
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.Repository.dll
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.BS.pdb
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.pdb
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\SolucionFW\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.Repository.pdb
