@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.deps.json
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.genruntimeconfig.cache
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Quiz 1\SolucionQuiz\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csproj.AssemblyReference.cache
