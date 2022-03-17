@@ -1,0 +1,451 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL\\DAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\API.W\\API.W.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\API.W\\API.W.csproj",
+        "projectName": "API.W",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\API.W\\API.W.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\API.W\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.DO\\DAL.DO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.DO\\DAL.DO.csproj",
+        "projectName": "DAL.DO",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.DO\\DAL.DO.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.DO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.EF\\DAL.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.EF\\DAL.EF.csproj",
+        "projectName": "DAL.EF",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.EF\\DAL.EF.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\API.W\\API.W.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\API.W\\API.W.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.Repository\\DAL.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.Repository\\DAL.Repository.csproj",
+        "projectName": "DAL.Repository",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.Repository\\DAL.Repository.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\API.W\\API.W.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\API.W\\API.W.csproj"
+              },
+              "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.DO\\DAL.DO.csproj"
+              },
+              "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.EF\\DAL.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.DO\\DAL.DO.csproj"
+              },
+              "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.EF\\DAL.EF.csproj"
+              },
+              "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.Repository\\DAL.Repository.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\PrograAvanzadaWeb\\2022_1C_SC-701_JARUIZ_1Eva\\2022_1C_SC-701_JARUIZ_1Eva\\DAL.Repository\\DAL.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
