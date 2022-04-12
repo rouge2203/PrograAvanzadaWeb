@@ -10,4 +10,3 @@ C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\202
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.dll
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.pdb
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.genruntimeconfig.cache
-C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csproj.AssemblyReference.cache

@@ -30,7 +30,7 @@ namespace API
         {
             services.AddDbContext<NDbContext>(options =>
             options.UseSqlServer(
-            Configuration.GetConnectionString("GoodConnection")));
+            Configuration.GetConnectionString("DefaultConnection")));
 
             ////////// INICIO AutoMapper
             var mappingConfig = new MapperConfiguration(mc => {

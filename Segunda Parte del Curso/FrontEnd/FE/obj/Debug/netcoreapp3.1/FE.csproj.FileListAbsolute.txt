@@ -46,3 +46,5 @@ C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontE
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontEnd\FE\obj\Debug\netcoreapp3.1\FE.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Viejo.cshtml.g.cs

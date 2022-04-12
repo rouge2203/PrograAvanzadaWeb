@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\API.W\API.W.csproj" />
+    <ProjectReference Include="..\DAL.DO\DAL.DO.csproj" />
   </ItemGroup>
 
 </Project>

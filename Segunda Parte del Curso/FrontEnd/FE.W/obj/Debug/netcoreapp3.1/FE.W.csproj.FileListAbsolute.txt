@@ -162,3 +162,4 @@ C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontE
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontEnd\FE.W\obj\Debug\netcoreapp3.1\Razor\Views\Suppliers\Details.cshtml.g.cs
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontEnd\FE.W\obj\Debug\netcoreapp3.1\Razor\Views\Suppliers\Edit.cshtml.g.cs
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontEnd\FE.W\obj\Debug\netcoreapp3.1\Razor\Views\Suppliers\Index.cshtml.g.cs
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\Segunda Parte del Curso\FrontEnd\FE.W\obj\Debug\netcoreapp3.1\FE.W.csproj.AssemblyReference.cache

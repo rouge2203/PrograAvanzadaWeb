@@ -11,12 +11,6 @@ C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\202
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.genruntimeconfig.cache
-C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\bin\Debug\netcoreapp3.1\API.W.deps.json
-C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\bin\Debug\netcoreapp3.1\API.W.runtimeconfig.json
-C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\bin\Debug\netcoreapp3.1\API.W.runtimeconfig.dev.json
-C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\bin\Debug\netcoreapp3.1\API.W.exe
-C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\bin\Debug\netcoreapp3.1\API.W.dll
-C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\bin\Debug\netcoreapp3.1\API.W.pdb
 C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\admin\Documents\GitHub\PrograAvanzadaWeb\2022_1C_SC-701_JARUIZ_1Eva\2022_1C_SC-701_JARUIZ_1Eva\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.pdb

@@ -1,4 +1,5 @@
-﻿using API.W.Models;
+﻿
+using DAL.DO.Objects;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -72,10 +73,10 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
 
                 entity.Property(e => e.Nombre).IsRequired();
 
-                entity.HasOne(d => d.Pais)
-                                .WithMany(p => p.Autores)
-                                .HasForeignKey(d => d.PaisId)
-                                .HasConstraintName("FK_Autores_Pais");
+                //entity.HasOne(d => d.Pais)
+                //                .WithMany(p => p.Autores)
+                //                .HasForeignKey(d => d.PaisId)
+                //                .HasConstraintName("FK_Autores_Pais");
             });
 
             OnModelCreatingPartial(modelBuilder);
